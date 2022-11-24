@@ -1,10 +1,11 @@
 # Building-quiz
+<div align='center'
 This project built using HTML,CSS
 This is html,css practising project by freecodecamp
 
 
   <a href="https://habeeb-an.github.io/Building-quiz/"><strong>➥ Live Demo</strong></a>
-
+</div>
 
 demo Site screenshot:
 
