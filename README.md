@@ -1,5 +1,6 @@
 # Building-quiz
-html css practising project by freecodecamp
+This project built using HTML,CSS
+This is html,css practising project by freecodecamp
 
 
 demo Site picture:
